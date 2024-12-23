@@ -1,0 +1,27 @@
+--------------
+Create Project
+--------------
+npm init -y
+
+--------------
+Install
+--------------
+npm i bcrypt  cookie-parser dotenv ejs connect-mongo express express-ejs-layouts jsonwebtoken method-override mongoose
+
+npm i --save @fortawesome/fontawesome-svg-core
+
+npm install --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/free-regular-svg-icons
+npm install --save @fortawesome/free-brands-svg-icons
+
+npm i --save @fortawesome/vue-fontawesome@latest-3
+npm install font-awesome --save
+
+--------------
+Usefull Links
+--------------
+How to use fontawesome with NodeJs-
+
+https://www.geeksforgeeks.org/how-to-use-font-awesome-icons-from-node-js-modules/
+
