@@ -3,7 +3,10 @@ ALERT
 -----------
 Not clone the project until I give the go (It is not working)
 
-
+--------
+Check
+--------
+    NodeJS Install : node -v
 -----------
 DESCRIPTION
 -----------
