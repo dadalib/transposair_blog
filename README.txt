@@ -1,3 +1,12 @@
+-----------
+ALERT
+-----------
+Not clone the project until I give the go (It is not working)
+
+
+-----------
+DESCRIPTION
+-----------
 Blog Description: 
     DATA BASE : MongoDB
     Framework : NodeJS
