@@ -24,3 +24,11 @@ Blog Description:
 
     Change
          home in : main.js
+         folder views:
+            about
+            contact
+            index
+            post
+            references
+            search
+            index : Main page
