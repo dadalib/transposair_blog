@@ -32,3 +32,4 @@ Blog Description:
             references
             search
             index : Main page
+            Post.js : Insert data on DB
