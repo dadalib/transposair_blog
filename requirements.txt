@@ -9,6 +9,7 @@ Install
 npm i bcrypt  cookie-parser dotenv ejs connect-mongo express express-ejs-layouts jsonwebtoken method-override mongoose
 npm i nodemon --save-dev
 npm i --save @fortawesome/fontawesome-svg-core
+npm i paath
 
 npm install --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
